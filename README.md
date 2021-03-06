@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello 👋, I'm Bipin Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
-<h3 align="center"> Welcome to My profile </h3>
+<h3 align="center">  :)  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin99&label=Profile%20views&color=0e75b6&style=flat" alt="bipin99" /> </p>
 
