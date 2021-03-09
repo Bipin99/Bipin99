@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Bipin4413@gmail.com**
 
-- ⚡ Fun fact **I think I am lazy and Funny.**
+- ⚡ Fun fact **I think I am Funny.**
 
 
 <h3 align="left">Languages and Tools:</h3>
